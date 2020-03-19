@@ -30,11 +30,11 @@ Para começar, vamos fazer uma página simples para agregar editais de compra re
  
 ## 2. Tecnologia 
 
-1. GitHub :-)
-2. Markdown
-3. Basecamp (estamos gerenciando conteúdo lá)
+ 1. GitHub :-)
+ 2. Markdown
+ 3. Basecamp (estamos gerenciando conteúdo lá)
 
 ## 3. Coordenação/Contatos
 
-coordenação geral/conteúdo: [Olivia aqui](https://github.com/olivia-olivia), [Olivia no Twitter](https://twitter.com/oliviagj)
-coordenação de tecnologia: [Vinícius](https://github.com/viniciusrdacosta)
+- coordenação geral/conteúdo: [Olivia aqui](https://github.com/olivia-olivia), [Olivia no Twitter](https://twitter.com/oliviagj)
+- coordenação de tecnologia: [Vinícius](https://github.com/viniciusrdacosta)
