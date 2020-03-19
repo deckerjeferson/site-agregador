@@ -22,11 +22,11 @@ O Governo Federal, os governos de vários Estados e outros entes do poder públi
  
 Para começar, vamos fazer uma página simples para agregar editais de compra relacionados à resposta à Covid-19. Nosso produto mínimo viável deve ter: 
      
-    1. uma lista de editais 
-    2. cada edital deve estar linkado a sua origem 
-    3. uma breve edição do que se trata 
-    4. indicação do órgão responsável 
-    5. indicação de abrangência 
+1. uma lista de editais 
+2. cada edital deve estar linkado a sua origem 
+3. uma breve edição do que se trata 
+4. indicação do órgão responsável 
+5. indicação de abrangência 
  
 ## 2. Tecnologia 
 
