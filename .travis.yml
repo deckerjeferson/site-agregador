@@ -2,4 +2,4 @@ language: node_js
 node_js:
   - "12.13"
 
-before_script: npm run test:ci
+before_script: npm run test:ci && echo 0;
