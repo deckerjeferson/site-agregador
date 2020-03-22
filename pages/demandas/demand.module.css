@@ -1,0 +1,28 @@
+.demand {
+  width: 80%;
+  margin-top: 30px;
+  border-bottom: 1px solid #aaa;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.demand:last-child {
+  border: none;
+}
+
+.header {
+  font-size: 1.5em;
+}
+
+.excerpt {
+  padding-top: 10px;
+  line-height: 1em;
+}
+
+.footer {
+  padding: 10px 0 10px 0;
+}
+
+.footer span {
+  padding-right: 10px;
+}
